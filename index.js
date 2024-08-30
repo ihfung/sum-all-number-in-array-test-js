@@ -1,4 +1,4 @@
-const sumItems = function(array) {
+const sumItems = (array) => {
   // Initialize sum
   let sum = 0;
 
